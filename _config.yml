@@ -37,7 +37,7 @@
 title: Documentation
 description: A Jekyll site on GitHub Pages
 theme: minima # default theme
-baseurl: ""
+baseurl: "/documentation"
 url: "https://cpassorelli.github.io"
 
 # Exclude from processing.
